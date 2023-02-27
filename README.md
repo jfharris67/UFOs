@@ -12,18 +12,21 @@ We also want to allow users to apply specific criteria to filter results based o
 ### Filter the results
 Enter your selections in the text boxes to narrow in on a specific date, city, state, country, or shape.  See the image below.
 
-<img width="302" alt="filter_section" src="https://user-images.githubusercontent.com/114355199/221366257-81f1fb7e-3cb9-4e11-af47-be8312213e17.png">
+<img width="302" alt="filter_section" src="https://user-images.githubusercontent.com/114355199/221536451-caeed564-5b56-4372-825e-a504e41e3aa8.png">
+
 
 ### Viewing the filtered results
 Hit enter on your keyboard to view the results to the right of the filter panel—an example of a filtered search with results below.
 
-<img width="1384" alt="filter_results" src="https://user-images.githubusercontent.com/114355199/221366265-34b6c155-69cc-4520-a530-796687ec00c8.png">
+<img width="1384" alt="filter_results" src="https://user-images.githubusercontent.com/114355199/221536529-cbde5510-7041-42b0-8a19-cecdeda3ce76.png">
+
 
 ### Reseting the filtered results
 
 To reset the filters and table results, click on the UFO Sightings label in the top left-hand corner of the website.
 
-<img width="178" alt="Filter_reset" src="https://user-images.githubusercontent.com/114355199/221529643-2aa01036-cf2b-4fca-bc6d-e8edb9bb63bc.png">
+<img width="178" alt="Filter_reset" src="https://user-images.githubusercontent.com/114355199/221536574-d5cd1ba9-64f9-487d-a6f7-5743e268c6ec.png">
+
 
 ## Summary:
 
